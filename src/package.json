@@ -1,7 +1,7 @@
 {
     "name": "nativescript-version-number",
-    "version": "1.0.0",
-    "description": "Your awesome NativeScript plugin.",
+    "version": "1.1.0",
+    "description": "A dead-simple plugin for retrieving the version number of your NativeScript app.",
     "main": "version-number",
     "typings": "index.d.ts",
     "nativescript": {
@@ -32,8 +32,8 @@
         "iOS"
     ],
     "author": {
-        "name": "Your Name",
-        "email": "youremail@yourdomain.com"
+        "name": "TJ VanToll",
+        "email": "tj.vantoll@gmail.com"
     },
     "bugs": {
         "url": "https://github.com/tjvantoll/nativescript-version-number/issues"
